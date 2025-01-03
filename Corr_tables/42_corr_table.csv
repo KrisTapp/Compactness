@@ -1,0 +1,5 @@
+,County weight 01,Perimeter,Slack,phi
+County weight 01,1.0,0.11,-0.02,-0.14
+Perimeter,0.11,1.0,0.07,-0.35
+Slack,-0.02,0.07,1.0,-0.04
+phi,-0.14,-0.35,-0.04,1.0
